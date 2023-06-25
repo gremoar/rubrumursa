@@ -259,3 +259,9 @@ footer
  text-align: center;
 
 }
+#footer a
+{
+  color:#C8C6B1;
+  text-decoration: none;
+
+}
