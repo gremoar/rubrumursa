@@ -250,16 +250,59 @@ main
 {
     text-align: center;
 }
-footer
+
+.info
 {
- background-color: #353535;
+    box-sizing: border-box;
+    display: flex;
+    justify-content: center;
+    color: #fff;
+    padding-top: 20px;
+}
+
+.info a
+{
+    color: #fff;
+}
+
+.ig img
+{
+    width: 35px;
+    height: 35px;
+    margin-right: 20px;
+}
+
+.mail img
+{
+    width: 35px;
+    height: 35px;
+}
+
+.tel img
+{
+    width: 35px;
+    height: 35px;
+    margin-left: 20px;
+}
+
+.contacto
+{
+  background-color: #353535;
  padding-top: 2%;
  padding-bottom: 2%;
  color: #aaa;
- text-align: center;
-
+text-align: center;
 }
-#footer a
+footer
+{
+  background-color: #461e1e;
+ padding-top: 1%;
+ padding-bottom: 1%;
+ color: #aaa;
+ text-align: center;
+}
+
+#contactos a
 {
   color:#C8C6B1;
   text-decoration: none;
